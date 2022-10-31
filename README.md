@@ -9,4 +9,4 @@ Curious about some problem in math,comp sci.👨🏻‍💻
 
 Contact at : @quentinmood!🌴
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justadaydreamer&show_icons=true)
