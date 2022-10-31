@@ -1,10 +1,11 @@
 # Read-me-first
-Hi!
+Hi!🙃
 
-My name is Thanatud Boonyaanuchit.
+My name is Thanatud Boonyaanuchit.🌱
 
-Former at a Student at Suankularb Wittayalai School.
+Former at a Student at Suankularb Wittayalai School.🌅
 
-Curious about some problem in math,comp sci.
+Curious about some problem in math,comp sci.👨🏻‍💻
 
-Contact at : @quentinmood!
+Contact at : @quentinmood!🌴
+
