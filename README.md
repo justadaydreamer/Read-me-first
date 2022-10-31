@@ -9,6 +9,6 @@ Curious about some problem in math,comp sci.👨🏻‍💻
 
 Contact at : @quentinmood!🌴
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justadaydreamer&show_icons=true)\f![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justadaydreamer&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justadaydreamer&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justadaydreamer&layout=compact)
 
 
